@@ -1,0 +1,4 @@
+.leaflet-control-locate a{font-size:2em;color:#383c40;cursor:pointer}
+.leaflet-control-locate.active a{color:#2074B6}
+.leaflet-control-locate.active.following a{color:#2074B6}
+/*# sourceMappingURL=L.Control.Locate.min.css.map */
